@@ -1,4 +1,4 @@
-# Metaheuristic Task Assignment 🧬🐜🕊️
+# Metaheuristic Agents 🧬🐜🕊️
 Year: 2025
 
 This project uses a collection of intelligent agent-based optimisation algorithms that solve complex employee-task assignment problems using evolutionary and swarm-inspired methods.
