@@ -1,7 +1,7 @@
-# Metaheuristic Agents 🧬🐜🕊️
+# Metaheuristic Agents 🧬🐝🐜
 Year: 2025
 
-This project uses a collection of intelligent agent-based optimisation algorithms that solve complex employee-task assignment problems using evolutionary and swarm-inspired methods.
+This project uses a collection of nature-inspired optimisation algorithms, exploring how intelligent agent behaviours can be used to solve complex problems through swarm intelligence and evolutionary processes.
 
 ## Project Overview
 This project explores the use of heuristic intelligent agents and evolutionary algorithms — specifically:
